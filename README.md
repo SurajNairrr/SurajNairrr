@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Full-Stack Developer | AI & ML Enthusiast<br>⚡ Tech Stack: Python | Java | C | JavaScript | Node.js<br>🎮 Game Dev Enthusiast (Exploring Unity)<br>🎵 Music Creator (BandLab, Soundtrap)<br>📸 Beginner Photographer (Canon EOS 100D)
+💻 Aspiring Full-Stack Developer | AI & ML Enthusiast<br>⚡ Tech Stack: Python | Java | C | JavaScript | Node.js<br>🎮  
 
 
 ## 🌐 Socials:
