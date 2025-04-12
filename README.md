@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Full-Stack Developer | AI & ML Enthusiast<br>⚡ Tech Stack: Python | Java | C | JavaScript | Node.js<br>🎮  
+💻 Aspiring Full-Stack Developer | AI & ML Enthusiast<br>⚡ Tech Stack: Python | Java | C | JavaScript | Node.js<br>
 
 
 ## 🌐 Socials:
